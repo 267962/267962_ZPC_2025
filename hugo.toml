@@ -1,0 +1,4 @@
+baseURL = 'https://mojeteststrankalol.org/'
+languageCode = 'cz-cs'
+title = 'Supr cupr stranka'
+theme = "ananke"
