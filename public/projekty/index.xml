@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vítejte na mém portfoliu on ZPC portfolio</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Vítejte na mém portfoliu on ZPC portfolio</description>
+    <title>Projekty on ZPC portfolio</title>
+    <link>http://localhost:1313/projekty/</link>
+    <description>Recent content in Projekty on ZPC portfolio</description>
     <generator>Hugo</generator>
     <language>cz-cs</language>
     <lastBuildDate>Sun, 28 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/my-info/</link>
-      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-info/</guid>
-      <description>&lt;h1&gt;Stručné představení&lt;/h1&gt;&#xD;&#xA;  &lt;p&gt;TBA&lt;/p&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/smile.jpg&#34; alt=&#34;smile&#34; /&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/projekty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Individuální semestrální projekt</title>
       <link>http://localhost:1313/projekty/projekt-1/</link>

@@ -1,4 +1,25 @@
-baseURL = 'https://mojeteststrankalol.org/'
+baseURL = 'https://267962portfolio.org/'
 languageCode = 'cz-cs'
-title = 'Supr cupr stranka'
+title = 'ZPC portfolio'
 theme = "ananke"
+
+[menu]
+
+  [[menu.main]]
+    name = "Úvod"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Galerie projektů"
+    title = "Galerie projektů"
+    url = "/projekty/"
+    weight = 2
+
+  [[menu.main]]
+    name = "O mně"
+    url = "/posts/my-info/"
+    weight = 3
+
+[markup.goldmark.renderer]
+unsafe = true
