@@ -25,7 +25,7 @@ title: "Individuální semestrální projekt"
         </p>
         <figure>
          <a href="https://www.instructables.com/Actobotics-Motorized-Zoom-for-DSLR-EMotimo-TB3/" target="_blank">
-            <img src="/images/inspirace.jpg" alt="" />
+            <img src="images/inspirace.jpg" alt="" />
          </a>
              <figcaption>Podobné "DIY" řešení, autor: MichaelMikkelson</figcaption>
         </figure>
