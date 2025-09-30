@@ -5,4 +5,4 @@ title:
 
  <h1>Stručné představení</h1>
   <p>TBA</p>
-<img src="/images/smile.jpg" alt="smile" />
+<img src="267962_ZPC_2025/images/static/smile.jpg" alt="smile" />
