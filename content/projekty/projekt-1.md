@@ -25,7 +25,7 @@ title: "Individuální semestrální projekt"
         </p>
         <figure>
          <a href="https://www.instructables.com/Actobotics-Motorized-Zoom-for-DSLR-EMotimo-TB3/" target="_blank">
-            <img src="images/inspirace.jpg" alt="inspirace">
+            <img src="267962_ZPC_2025/static/images/inspirace.jpg" alt="inspirace">
          </a>
              <figcaption>Podobné "DIY" řešení, autor: MichaelMikkelson</figcaption>
         </figure>
@@ -36,6 +36,3 @@ title: "Individuální semestrální projekt"
 
 </body>
 </html>
-
-![inspirace](images/inspirace.jpg)
-<img src="images/inspirace.jpg" alt="inspirace">
