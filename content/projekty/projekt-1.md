@@ -11,9 +11,9 @@ title: "Individuální semestrální projekt"
       margin: 20px;
     }
   figcaption {
-    font-size: 12px; /* makes text small */
-    color: gray;     /* optional styling */
-    text-align: center; /* centers under the image */
+    font-size: 12px;
+    color: gray;
+    text-align: center;
   }
   </style>
 </head>
