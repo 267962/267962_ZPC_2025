@@ -1,5 +1,4 @@
 ---
-date: 2025-11-11
 title: "Tvorba webové stránky s portofoliem"
 ---
 <html>

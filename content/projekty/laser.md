@@ -1,5 +1,4 @@
 ---
-date: 2025-11-8
 title: "Miniprojekt řezání laserem"
 ---
 <html>

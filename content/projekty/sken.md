@@ -1,5 +1,4 @@
 ---
-date: 2025-11-11
 title: "Miniprojekt 3D sken"
 ---
 <html>
