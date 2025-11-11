@@ -1,4 +1,5 @@
 ---
+date: 2025-11-06
 title: "3D tištěný mechanismus"
 ---
 <html>

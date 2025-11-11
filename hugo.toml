@@ -1,7 +1,7 @@
 baseURL = 'https://267962portfolio.org/'
 languageCode = 'cz-cs'
 title = 'ZPC portfolio'
-theme = "ananke"
+theme = "hugo-bearblog-master"
 
 [menu]
 

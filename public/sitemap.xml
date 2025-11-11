@@ -5,35 +5,28 @@
     <loc>http://localhost:1313/posts/my-info/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projekty/3d_mech/</loc>
-    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projekty/projekt-1/</loc>
-    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projekty/sken/</loc>
-    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projekty/laser/</loc>
-    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projekty/elektro/</loc>
-    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projekty/</loc>
-    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projekty/stranka/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projekty/3d_mech/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/projekty/projekt-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projekty/sken/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projekty/laser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projekty/elektro/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projekty/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projekty/stranka/</loc>
   </url>
 </urlset>

@@ -1,4 +1,5 @@
 ---
+date: 2025-09-30
 title: "Individuální semestrální projekt"
 ---
 <html>
