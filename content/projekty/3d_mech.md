@@ -35,6 +35,9 @@ title: "3D tištěný mechanismus"
         Typ mechanismu, který jsem se rozhodl zpracovat je tzv. maltézský kříž, také zvaný jako ženevský mechanismus. Konkrétně jde o demonstraci pohybu převijéní filmu v klasické videokameře či v projektoru. Vstupní hřídel roztáčí kolečko s kolíkem, ten následně interaguje s křížem, který se díky své geometrii otáčí pouze při kontaktu kolíku s jednou z jeho drážek. Výsledkem je přerušovaný otáčivý pohyb na výstupu, ideální právě pro hbitý pohyb filmu v momentech kdy je kousek určený pro expozici zakrytý clonou. Můj model má šest 
         drážek, takže jedna rotace otočí kříž o šedesát stupňů.
         </p>
+        <video autoplay loop muted playsinline>
+          <source src="https://267962.github.io/267962_ZPC_2025/videos/mech.mp4" type="video/mp4">
+        </video>
     </div>
 
 </body>

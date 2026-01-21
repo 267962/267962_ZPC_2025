@@ -1,6 +1,6 @@
 ---
 date: 2025-09-28
-title: "Tvorba webové stránky s portofoliem"
+title: "Tvorba webové stránky s portfoliem"
 ---
 <html>
 <head>
